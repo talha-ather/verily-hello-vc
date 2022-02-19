@@ -62,6 +62,10 @@ All of us will add to this file, what our favorite module is, e.g.
 
 ## C. Code Review
 
+> **NOTE:**
+> * A typical workflow is to request a reviewer, e.g.
+> ![image](https://user-images.githubusercontent.com/3752732/154776429-3fedacc9-df5e-452c-afb5-be743bf2389d.png)
+
 1. Find a buddy to review each other's code.
 
 2. Ask your buddy to open the pull request
