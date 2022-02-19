@@ -52,13 +52,31 @@ All of us will add to this file, what our favorite module is, e.g.
 
 ![image](https://user-images.githubusercontent.com/3752732/154771703-fd6e8243-6256-448f-bc51-39d66ca9eda1.png)
 
-11. Click "Compare & pull request"
+11. Click "Pull requests"
 
- ![image](https://user-images.githubusercontent.com/3752732/154771736-96ce3f1f-d217-4f3b-9132-8f6e587b01d4.png)
+ ![image](https://user-images.githubusercontent.com/3752732/154778541-4f736f01-1963-4325-8937-6ace4051db3e.png)
 
-12. Click "Create pull request"
+12. Click "New pull request" in the top right
 
-![image](https://user-images.githubusercontent.com/3752732/154771790-1c45cb8c-dce9-4c10-80e3-42dddfe43d69.png)
+![image](https://user-images.githubusercontent.com/3752732/154778578-dd51a0f0-ee60-4948-aeca-74bf72af7060.png)
+
+13. Click "compare across forks"
+
+![image](https://user-images.githubusercontent.com/3752732/154778614-544e5d7a-ae01-492b-ad11-1147b7670251.png)
+
+14. Change the "head" repository to your fork -- the drop down in the middle right
+
+![image](https://user-images.githubusercontent.com/3752732/154779086-cb9b6b47-c170-4744-b6f0-983d96967b1d.png)
+
+15. Click "Create pull request"
+
+![image](https://user-images.githubusercontent.com/3752732/154778730-95852925-c758-408f-bb37-7e78fd2aa699.png)
+
+16. Update the PR description if you like, then click "Create pull request"
+
+![image](https://user-images.githubusercontent.com/3752732/154778809-79ef2414-177e-414a-8615-34035b939d42.png)
+
+Your pull request is now ready for review!
 
 ## C. Code Review
 
