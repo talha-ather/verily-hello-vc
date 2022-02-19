@@ -105,6 +105,6 @@ Prerequisite: creating a commit that you don't like.
 
 To keep your local clone neat and tidy, you'll want to wrap up your development for the day with some cleanup. You can delete your working branch with the option -D (as in, `git branch -D <branch-name>`) and update your local clone using the `git pull` command, which pulls the latest code from the remote repository.
 
-## J. Extra credit
+## G. Extra credit
 - How version control works: <https://git-scm.com/book/en/v2/Git-Internals-Plumbing-and-Porcelain>
 - Open source licensing link: <https://opensource.org/faq>
