@@ -98,8 +98,7 @@ Some of you will encounter conflicts:
 
 So far in this tutorial, we've mostly discussed the happy path: you code something cool, then submit it for review. But what happens if you submit a commit you don't want? Version control with git offers us a way to fix this issue!
 
-Prerequisite: creating a commit that you don't like.
-
+Start by cloning the repo locally using HTTPS, then create a commit that you don't like from the command line.
 1. Run the command `git log` to print a list of all commits, then copy to clipboard the hash of the commit preceding the one you want to remove. Type `q` at the command prompt to return to your command line interface.
 2. There are a lot of ways to roll back commits you don't want; some of them are detailed at <https://stackoverflow.com/questions/4114095/how-do-i-revert-a-git-repository-to-a-previous-commit>.
 3. The command for completely wiping out your bad commit is `git revert <hash>` where `<hash>` is the hash of the commit you want to remove.
